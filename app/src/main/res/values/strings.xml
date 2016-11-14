@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">tasktwo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Nama : </string>
+    <string name="job">Job  : </string>
+    <string name="saya">Nana Rukmana</string>
+    <string name="android">Android Developer</string>
+    <string name="hello">Hello</string>
+    <string name="alamat">Jl. Raya Laswi \nDs. Jelekong \nKec. Baleendah \nKab.Bandung</string>
+</resources>
