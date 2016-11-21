@@ -8,10 +8,10 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="nama">Nama : </string>
+    <string name="nama">Nama : Nana Rukmana </string>
     <string name="job">Job  : </string>
     <string name="saya">Nana Rukmana</string>
     <string name="android">Android Developer</string>
     <string name="hello">Hello</string>
-    <string name="alamat">Jl. Raya Laswi \nDs. Jelekong \nKec. Baleendah \nKab.Bandung</string>
+    <string name="alamat">Jl. Raya Laswi Ds. Jelekong \nKec. Baleendah Kab.Bandung</string>
 </resources>
